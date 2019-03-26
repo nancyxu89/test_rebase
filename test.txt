@@ -1,0 +1,6 @@
+1 render函数 
+  Vue.component(‘’,{
+    render: (h) => {}
+  })
+
+2 vue-loader配置 transformToRequire preserveWhitespace
